@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视高清",CCTV-1 综合
+http://120.221.5.101:8089/PLTV/88888888/224/3221225859/1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://120.221.5.107:8089/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-name="巨野新闻" tvg-logo="https://live.fanmingming.com/tv/巨野新闻.png" group-title="菏泽频道",巨野新闻
+http://39.134.144.6:8089/PLTV/88888888/224/3221226134/index.m3u8
+
