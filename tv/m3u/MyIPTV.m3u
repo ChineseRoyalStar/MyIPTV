@@ -66,7 +66,7 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://218.15.183.23:9901/tsfile/live/23008_1.m3u8
+http://218.29.168.146:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://113.57.111.4:1111/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
@@ -223,13 +223,13 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京IPTV 萌宠TV" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="☘️地方频道",北京IPTV 萌宠TV
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
 #EXTINF:-1 tvg-name="上海东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="☘️地方频道",上海东方影视
-http://23.94.158.109:50001/TVOD/5000000010000032212/bestzb/index.m3u8?ace
+http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dfys
 #EXTINF:-1 tvg-name="上海东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="☘️地方频道",上海东方财经
-http://23.94.158.109:50001/TVOD/5000000007000010003/bestzb/index.m3u8?ace
+http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 #EXTINF:-1 tvg-name="上海法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="☘️地方频道",上海法治天地
 http://23.94.158.109:50001/TVOD/2000000002000000014/hnbblive/index.m3u8?ace
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="☘️地方频道",上海第一财经
-http://23.94.158.109:50001/TVOD/5000000010000027146/bestzb/index.m3u8?ace
+http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="☘️地方频道",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="☘️地方频道",浙江国际
