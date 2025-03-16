@@ -170,7 +170,7 @@ http://23.94.158.109:50001/TVOD/5000000011000031113/bestzb/index.m3u8?ace
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5101217554085087042&livemode=1&stbId=Shelly
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="📡卫视频道",游戏风云
 http://23.94.158.109:50001/TVOD/5000000011000031114/bestzb/index.m3u8?ace
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="📡☘️山东频道",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="☘️山东频道",山东卫视
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
 http://221.2.148.205:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -187,18 +187,16 @@ http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
 http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="☘️山东频道",山东教育卫视
-#EXTINF:-1 tvg-name="济南新闻(天下泉城)" tvg-logo="tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南综合.png" group-title="☘️山东频道",济南新闻(天下泉城)
+#EXTINF:-1 tvg-name="济南新闻(天下泉城)" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62133/B35053D33EE0E8AA099E8F276C42475B.png" group-title="☘️山东频道",济南新闻(天下泉城)
 https://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=6b174e23bbb53f1d749d2c79a66fe17c5ec1d8756becebb978f3f2c16b81aeed&hwTime=67d52ef8
-#EXTINF:-1 tvg-name="济南综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南综合.png" group-title="☘️山东频道",济南新闻
+#EXTINF:-1 tvg-name="济南综合" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62133/B35053D33EE0E8AA099E8F276C42475B.png" group-title="☘️山东频道",济南新闻
 http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="济南都市(天下泉城)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南都市.png" group-title="☘️山东频道",济南都市(天下泉城)
+#EXTINF:-1 tvg-name="济南都市(天下泉城)" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62275/DD6FC2604B3471B1FB43DE3E8EA0D789.jpg" group-title="☘️山东频道",济南都市(天下泉城)
 https://dspull.ijntv.cn/ijnlive/1607.m3u8?hwSecret=a8fddfc508c5354a9acc921c4250778c15a46fd6caed05cb1003aa8cec92022f&hwTime=67d52ef8
-#EXTINF:-1 tvg-name="济南都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南都市.png" group-title="☘️山东频道",济南都市
+#EXTINF:-1 tvg-name="济南都市" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62275/DD6FC2604B3471B1FB43DE3E8EA0D789.jpg" group-title="☘️山东频道",济南都市
 http://124.128.73.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="济南文旅(天下泉城)" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62276/3F98A13D66718E9E57AB48C5E07C9DA9.jpg" group-title="☘️山东频道",济南文旅(天下泉城)
 "https://dspull.ijntv.cn/ijnlive/1610.m3u8?hwSecret=2ba56eab1514c78cd4627e2f609ac0f089532431c05c632deed96b0112232abe&hwTime=67d52ef8"
-#EXTINF:-1 tvg-name="济南文旅" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62276/3F98A13D66718E9E57AB48C5E07C9DA9.jpg" group-title="☘️山东频道",济南文旅
-http://124.128.73.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="济南生活(天下泉城)" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62330/6D431A9401648F8047EE48AA8464155D.jpg" group-title="☘️山东频道",济南生活(天下泉城)
 https://dspull.ijntv.cn/ijnlive/1615.m3u8?hwSecret=2a0661f899c09c1b4b8495866c6f12faab381abee9314dc44622a10110a572da&hwTime=67d52ef8
 #EXTINF:-1 tvg-name="济南少儿(天下泉城)" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-11-26/817623/B7D7A3DFE1D4B1467CD34C25B2EF5CD1.jpg" group-title="☘️山东频道",济南少儿(天下泉城)
