@@ -298,7 +298,6 @@ http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="☘️山东IPV4",山东新闻
 http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="☘️山东频道",山东教育卫视
 #EXTINF:-1 tvg-name="济南综合" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62133/B35053D33EE0E8AA099E8F276C42475B.png" group-title="☘️山东IPV4",济南新闻
 http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://dlivefile.guangbocloud.com/data/director/2024-04-16/62275/DD6FC2604B3471B1FB43DE3E8EA0D789.jpg" group-title="☘️山东IPV4",济南都市
